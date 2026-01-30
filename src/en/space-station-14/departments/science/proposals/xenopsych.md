@@ -22,8 +22,9 @@ Anomalous Research is also one of the least wished tasks for most scientists too
 
 - Players will get a list of objectives of 2-3 objectives for each anomaly they scan, some of which reward a high number of points (At a higher risk), these are so that whilst scanning they actually perform actions worthy of the word _Research_, as it would act as if they were actually studying the anomaly; some of these objectives could be as follows:
 
-    - Severe the anomaly up to X% (Low reward, low risk)
-    - Have the anomaly stable for X minutes (Medium reward, low risk, moderate effort)
+    - Severe the anomaly up to X% (High) (Medium rewards based on the determined severity, medium risk)
+    - Have the anomaly stable at X% (Low) severity for X (Long) minutes (Medium rewards based on the determined severity, low risk, high effort)
+    - Have the anomaly stable at X% (Medium) severity for X (Short) minutes (Medium rewards based on the determined severity, medium risk, moderate effort)
     - Transform the anomaly X times (Low reward, low risk)
     - Decay the anomaly (Uncommon) (Medium reward, low risk, moderate effort)
     - Crit the anomaly (Rare) (High reward, high risk)
