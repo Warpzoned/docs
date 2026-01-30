@@ -20,7 +20,7 @@ Anomalous Research is also one of the least wished tasks for most scientists too
 
 - Players no longer get the particle types' effects spoon-fed to them, rather they will have to note it down themselves based on the anomaly's behaviour (Existing types and their uses remain untouched); a UI rework of the anomaly scanner would therefore be necessary.
 
-- Players will get a list of objectives of 3-4 objectives for each anomaly they scan, some of which reward a high number of points (At a higher risk), these are so that whilst scanning they actually perform actions worthy of the word _Research_, as it would act as if they were actually studying the anomaly; some of these objectives could be as follows:
+- Players will get a list of objectives of 2-3 objectives for each anomaly they scan, some of which reward a high number of points (At a higher risk), these are so that whilst scanning they actually perform actions worthy of the word _Research_, as it would act as if they were actually studying the anomaly; some of these objectives could be as follows:
 
     - Severe the anomaly up to X% (Low reward, low risk)
     - Have the anomaly stable for X minutes (Medium reward, low risk, moderate effort)
@@ -32,32 +32,36 @@ Anomalous Research is also one of the least wished tasks for most scientists too
 
 - Reworked anomaly crits, as to be much less destructive _while_ still remaining troublesome; a suggestion:
 
-    - Whenever an ice anomaly crits, it explodes in a cloud of extremely cold gas, freezing all tiles, walls, and players in an area, those of which get instantly frozen and require thawing from someone outside, if not thawed in time they freeze to death.
+    - Whenever an ice anomaly crits, it explodes in a cloud of extremely cold gas, freezing all tiles, walls, and players in an area, those of which get instantly frozen and require thawing from someone outside, if not thawed in time they freeze to death, this would incentivize Sci to evacuate the area if they were to, say, intentionally Crit it.
 
 ### Pt.2 - Anomalous Research (Infections)
 
 - Anomalous Infection research now also doesn't have the particle types' effects mentioned right away, requiring the player to test it on the host.
 
-- You can now get "permanent" abilities if the anomaly's needs are met (Objectives, those of which are directly correlated to your alignment, if crew-aligned, passive objectives that might hurt only you, if antagonistical, more volatile ones, although the possibility for passive objectives is still on the table as an antagonist) as well as have it stable for a sufficient amount of time, a process I like to call "Anomalous Assimilation", these so called anomalous needs could be:
+- Anomalous Infection hosts are now given Objectives based on their anomaly's type, with "permanent" abilities as its completion reward, these are generally pacific and mostly for flavour, though I fear they _might_ be a bit too boring(?), either way here's some rough examples:
 
-    - Eat X ice creams (Ice anomaly's, passive)
-    - Kill someone with a fire-based weapon (Fire anomaly's, antagonistical)
-    - Eat X raw meat (Meat anomaly's, passive)
-    - Cut X vending machine's Y wire (Technological anomaly's, passive or antagonistical)
-    - Stay in complete darkness for X minutes (Shadow anomaly's, passive)
+    - Eat X ice creams (Ice anomaly's, pacific)
+    - Light X papers on fire (Fire anomaly's, pacific?)
+    - Eat X raw meat (Meat anomaly's, pacific)
+    - Cut X vending machine's Y wire (Technological anomaly's, pacfic or antagonistical)
+    - Stay in complete darkness for X minutes (Shadow anomaly's, pacific)
 
-- The existing abilities would remain to exist, but rather than keeping them forever they'd be only be present during the assimilation process, as after they'd be discarded for direct upgrades (The aforemention abilities may also have to be tweaked to be more logical downgrades rather than sidegrades), some examples of these being:
+- On-top of this, Anomalous Infection hosts will also have to keep their anomaly stable for a determined amount of time (A couple minutes), so that said anomaly can properly "assimilate" (Even if their "needs" are already met via the Objectives' completion), this would partly incentivize them towards either self-treating to lower the anomaly's severity, or to running away from to-be anomaly-decayers (ie. Sci).
+
+- The existing Pulse abilities would remain to exist, but rather than keeping them forever they'd be only be present during the assimilation process, as after they'd be discarded for more "interesting" ones (The aforemention Pulse abilities may also have to be tweaked for one reason or another), some examples of these being:
 
 - <b>Bluespace</b>
-    - Short-distance teleportation to a location on-screen at the player's discretion (High cooldown)
+    - Teleportation to any location on-screen, at the player's discretion (Very high cooldown)
 - <b>Meat</b>
-    - DNA-changing (Very high cooldown)
     - The ability to eat meat in any state, be it raw, cooked, or rotten (Passive)
+    - Drinking blood and/or splashing it on yourself (Any type) heals you slightly, similarly to how milk acts for skeletons, albeit at a much lesser rate (Passive)
 - <b>Technological</b>
-    - EMAG at will (Very high cooldown)
-    - Bolt/Unbolting at will (High cooldown)
+    - Bolt/Unbolting at will (Medium cooldown)
+    - Your brain is automatically valid to be put into a cyborg chassis similarly to how Voxes have Cortical Stacks (Passive)
+- <b>Electric</b>
+    - Ability to shock-stun other entities if you hug them without properly insulated gloves (No cooldown, but depletes your hunger and thirst bar by a high amount)
 
-*To compensate, some of the aforementioned anomalous infection types could have harder objectives dependent on how good their abilities are, meaning Meat's would be easier than Technological's, albeit still require an effort.
+*To compensate, some of the aforementioned anomalous infection types could have harder objectives dependent on how good their abilities are, meaning Meat's would be easier than Bluespace's, albeit still require an effort.
 
 - Upon completing the hosting anomaly's entire checklist, the subsequent anomaly would be much harder to remove, as well as doing so would inevitably result in the player's death (Whether it be by Decay or by Crit, as the anomaly would be entirely assimilated and hence technically be the player themselves).
 
